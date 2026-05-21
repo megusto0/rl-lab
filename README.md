@@ -27,7 +27,7 @@
 ### 01. OpenAI Gym и случайный агент
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/megusto0/rl-lab/blob/main/01_openai_gym.ipynb)
 
-Знакомство с API библиотеки Gymnasium: создание среды CartPole-v1, цикл взаимодействия `reset → step`, пространства наблюдения и действия. Запускается случайный агент на 200 эпизодов как базовая линия. Финальная ячейка сохраняет `results/01_random_baseline.csv` (статистика по эпизодам). Эта таблица копируется в **таблицу 2** отчёта.
+Знакомство с API библиотеки Gymnasium: создание среды CartPole-v1, цикл взаимодействия `reset → step`, пространства наблюдения и действия. Запускаются случайный агент и простая эвристика на 200 эпизодах для сравнения базовой линии с достижимым максимумом среды. Финальная ячейка сохраняет `results/01_random_baseline.csv` (статистика по эпизодам). Эта таблица копируется в **таблицу 2** отчёта.
 
 **Источник:** Lapan M., *Deep Reinforcement Learning Hands-On*, главы 2, 3.
 
