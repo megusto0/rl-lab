@@ -1,0 +1,6 @@
+gymnasium>=0.29
+numpy
+pandas
+matplotlib
+torch>=2.2
+jupyterlab>=4.0
